@@ -1,0 +1,27 @@
+{
+  "name": "ssr-auto-subscribe",
+  "version": "1.0.0",
+  "description": "自动更新ssr订阅地址",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxxzst/ssr-auto-subscribe.git"
+  },
+  "keywords": [
+    "node",
+    "ssr",
+    "puppeteer"
+  ],
+  "author": "XueSong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxxzst/ssr-auto-subscribe/issues"
+  },
+  "homepage": "https://github.com/dxxzst/ssr-auto-subscribe#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
