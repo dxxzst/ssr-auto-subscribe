@@ -16,6 +16,6 @@ Puppeteer：https://github.com/GoogleChrome/puppeteer
 安装资源 npm install
 运行更新 npm run
 ```
-> 提示：puppeteer若是下载失败，可以换用国内镜像，具体可百度。
-> 每次使用需要运行命令：npm run
-> 你也可以使用pm2等node自动化工具，定时运行
+>* 提示：puppeteer若是下载失败，可以换用国内镜像，具体可百度。
+>* 每次使用需要运行命令：npm run
+>* 你也可以使用pm2等node自动化工具，定时运行
