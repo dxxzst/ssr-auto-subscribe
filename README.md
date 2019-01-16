@@ -8,20 +8,31 @@ Puppeteer是一个Nodejs的库，支持调用Chrome的API来操纵Web，相比�
 
 Puppeteer：https://github.com/GoogleChrome/puppeteer
 
+
 ### 2.使用方法：
 下载或克隆本代码后，需要安装基本依赖，并修改index.js中的FILEPATH，改成你SSR的gui-config.json地址。
 运行方法如下：
 ```
 进入目录 cd ssr-auto-subscribe
 安装资源 npm install
-运行更新 npm run
+运行更新 npm start
 ```
 
 ### 3.提示：
 >* puppeteer若是下载失败，可以换用国内镜像，具体可百度
->* 每次使用需要运行命令：npm run
+>* 每次使用需要运行命令：npm start
 >* 可以使用pm2等node自动化工具，定时运行
+
+
+### 4.免费ss列表：
+>* https://t.me/gyjclub 固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+>* https://www.ssrtool.com/tool/free_ssr
+>* https://free-ss.site
+
 
 项目地址：https://github.com/dxxzst/ssr-auto-subscribe
 
 若本项目对您有所帮助，欢迎Star
+
+
+
