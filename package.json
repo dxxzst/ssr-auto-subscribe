@@ -4,7 +4,7 @@
   "description": "自动更新ssr订阅地址",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
