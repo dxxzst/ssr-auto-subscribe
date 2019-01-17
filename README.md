@@ -20,12 +20,11 @@ Puppeteer：https://github.com/GoogleChrome/puppeteer
 
 ### 3.提示：
 >* puppeteer若是下载失败，可以换用国内镜像，具体可百度
->* 每次使用需要运行命令：npm start
->* 可以使用pm2等node自动化工具，定时运行
+>* 项目已经采用node-schedule进行定时更新，每个小时的30分30秒会自动采集数据，自动更新文件
+>* 若您是Windows用户，在目录内也可以运行node nw.js（如果安装了安全管家等软件会阻止,直接允许就可以了），可将本项目形成服务，后台自动运行
 
 
 ### 4.免费ss列表：
->* https://t.me/gyjclub 固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 >* https://www.ssrtool.com/tool/free_ssr
 >* https://free-ss.site
 
