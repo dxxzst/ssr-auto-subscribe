@@ -13,7 +13,7 @@ function changeJson(url, filePath) {
             config.serverSubscribes.push({
                 "URL": url,
                 "Group": "WWW.SSRSTOOL.COM",
-                "LastUpdateTime": new Date().getTime()
+                "LastUpdateTime": ""
             });
         }
 
