@@ -1,4 +1,4 @@
-# ssr-auto-subscribe
+# ssr-auto-subscribe --- 已失效
 ### 基于node和puppeteer的ssr订阅自动更新
 
 ### 1.基本说明：
